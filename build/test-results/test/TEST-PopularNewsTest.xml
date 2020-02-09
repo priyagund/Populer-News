@@ -1,143 +1,144 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="PopularNewsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-02-09T09:10:11" hostname="admin1-HP-EliteBook-Folio-9480m" time="10.56">
+<testsuite name="PopularNewsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-02-09T14:21:34" hostname="admin1-HP-EliteBook-Folio-9480m" time="9.494">
   <properties/>
-  <testcase name="name" classname="PopularNewsTest" time="10.56"/>
-  <system-out><![CDATA[Proton 5.0, a package to run Windows games on Linux
-Software-dependent devices: do they now need expiration dates?
-HiPlot: High-dimensional interactive plots made easy
-Wikimedia Cookbook
-Facebook and Twitter reject request by Pelosi to remove doctored video by Trump
+  <testcase name="givenMethodForFindingPopulorNews" classname="PopularNewsTest" time="9.494"/>
+  <system-out><![CDATA[Dolphin Progress Report: December 2019 and January 2020
+No engineer has ever sued because of constructive post-interview feedback
+Sudo_pair: A tool for paired use of elevated privileges
+Board Games of the Ancient World
+China Is Allowing Taiwan to Attend Coronavirus WHO Meetings as Taiwan
+ThinkPad T480 is my new main laptop which runs FreeBSD
+95th percentile isn't that hard to reach
+Webcam, Lights, and Audio for Remote Work, Podcasting, Videos, and Streaming
+Ask HN: What are good solo developer blogs that you enjoy reading?
+Skepticism after Windows 10 search failure
+Modern workers are at the mercy of ratings
+Windows trust in abandoned code lets ransomware burrow deep in targeted machines
+Manifold: A model-agnostic visual debugging tool for machine learning (2019)
+Zero-days in Cisco Discovery Protocol
+Swiss journalist re-implements ClearViewAI in two weeks with OS software
+Federal agencies use cellphone location data for immigration enforcement
 TV Backlight Compensation
-Good Experiment, Bad Experiment
-Trying to be too (io)nice created a “killer” directory
-The United States of Franchising
-Before the DNS: how yours truly upstaged the NIC's official HOSTS.TXT (2004)
-Database Lab – Full-size staging databases as a service
-A New Raspbian Update
-Code Less, Engineer More
-Show HN: My Book, Hands-On Software Engineering with Golang
-A Man Who Turned Night into Day (2016)
-Dawn, a WebGPU Implementation in C++
-Toy commercials are being replaced by product placement and YouTube influencers
-George Steiner has died
-Show HN: SimpleSQL, SQLite Database Reachable over HTTP
-Combinatris: Tetris with SKI Combinators
-The Rapid Growth of Io_uring
-Video game development in Iran
-Geometric Algebra – Siggraph 2019
-LA’s new trains have not lessened the time spent stuck in traffic
-When Dorothy Parker got fired from Vanity Fair
-Ask HN: Math subfields important to become a distributed systems researcher?
-Confessions of a Failed Academic
-Dynamic Route53 records for AWS auto scaling groups with Terraform
-Show HN: All-Purpose Idea Generator
-Environmental lawyer who won a judgment against Chevron lost everything
-104
-127
-128
-169
-7
-380
-25
-34
-32
-115
-133
-7
-26
-171
-13
-79
-106
-29
-11
-113
-210
-60
-12
-87
-49
-6
-6
-84
-26
-261
-Proton 5.0, a package to run Windows games on Linux
-104
+Google Earth Outage: 17 hours and counting
+Windows 10 to offer Paint and WordPad as optional features
 Software-dependent devices: do they now need expiration dates?
-127
-HiPlot: High-dimensional interactive plots made easy
-128
 Wikimedia Cookbook
-169
-Facebook and Twitter reject request by Pelosi to remove doctored video by Trump
-7
+HiPlot: High-dimensional interactive plots made easy
+Before the DNS: how yours truly upstaged the NIC's official HOSTS.TXT (2004)
+The Sensitive Plant
+Over 36,000 Flash Games have been preserved before Flash dies
+Trying to be too (io)nice created a “killer” directory
+Albert Michelson's Harmonic Analyzer (2014) [video]
+Request: Buttons for logging life events for a quantified self
+The United States of Franchising
+Database Lab – Full-size staging databases as a service
+136
+507
+3
+203
+8
+330
+416
+299
+557
+178
+171
+5
+63
+362
+142
+92
+380
+30
+53
+129
+170
+128
+116
+42
+9
+34
+38
+6
+32
+134
+Dolphin Progress Report: December 2019 and January 2020
+136
+No engineer has ever sued because of constructive post-interview feedback
+507
+Sudo_pair: A tool for paired use of elevated privileges
+3
+Board Games of the Ancient World
+203
+China Is Allowing Taiwan to Attend Coronavirus WHO Meetings as Taiwan
+8
+ThinkPad T480 is my new main laptop which runs FreeBSD
+330
+95th percentile isn't that hard to reach
+416
+Webcam, Lights, and Audio for Remote Work, Podcasting, Videos, and Streaming
+299
+Ask HN: What are good solo developer blogs that you enjoy reading?
+557
+Skepticism after Windows 10 search failure
+178
+Modern workers are at the mercy of ratings
+171
+Windows trust in abandoned code lets ransomware burrow deep in targeted machines
+5
+Manifold: A model-agnostic visual debugging tool for machine learning (2019)
+63
+Zero-days in Cisco Discovery Protocol
+362
+Swiss journalist re-implements ClearViewAI in two weeks with OS software
+142
+Federal agencies use cellphone location data for immigration enforcement
+92
 TV Backlight Compensation
 380
-Good Experiment, Bad Experiment
-25
+Google Earth Outage: 17 hours and counting
+30
+Windows 10 to offer Paint and WordPad as optional features
+53
+Software-dependent devices: do they now need expiration dates?
+129
+Wikimedia Cookbook
+170
+HiPlot: High-dimensional interactive plots made easy
+128
+Before the DNS: how yours truly upstaged the NIC's official HOSTS.TXT (2004)
+116
+The Sensitive Plant
+42
+Over 36,000 Flash Games have been preserved before Flash dies
+9
 Trying to be too (io)nice created a “killer” directory
 34
+Albert Michelson's Harmonic Analyzer (2014) [video]
+38
+Request: Buttons for logging life events for a quantified self
+6
 The United States of Franchising
 32
-Before the DNS: how yours truly upstaged the NIC's official HOSTS.TXT (2004)
-115
 Database Lab – Full-size staging databases as a service
-133
-A New Raspbian Update
-7
-Code Less, Engineer More
-26
-Show HN: My Book, Hands-On Software Engineering with Golang
-171
-A Man Who Turned Night into Day (2016)
-13
-Dawn, a WebGPU Implementation in C++
-79
-Toy commercials are being replaced by product placement and YouTube influencers
-106
-George Steiner has died
-29
-Show HN: SimpleSQL, SQLite Database Reachable over HTTP
-11
-Combinatris: Tetris with SKI Combinators
-113
-The Rapid Growth of Io_uring
-210
-Video game development in Iran
-60
-Geometric Algebra – Siggraph 2019
-12
-LA’s new trains have not lessened the time spent stuck in traffic
-87
-When Dorothy Parker got fired from Vanity Fair
-49
-Ask HN: Math subfields important to become a distributed systems researcher?
-6
-Confessions of a Failed Academic
-6
-Dynamic Route53 records for AWS auto scaling groups with Terraform
-84
-Show HN: All-Purpose Idea Generator
-26
-Environmental lawyer who won a judgment against Chevron lost everything
-261
-[Proton, 5.0,, a, package, to, run, Windows, games, on, Linux, Software-dependent, devices:, do, they, now, need, expiration, dates?, HiPlot:, High-dimensional, interactive, plots, made, easy, Wikimedia, Cookbook, Facebook, and, Twitter, reject, request, by, Pelosi, to, remove, doctored, video, by, Trump, TV, Backlight, Compensation, Good, Experiment,, Bad, Experiment, Trying, to, be, too, (io)nice, created, a, “killer”, directory, The, United, States, of, Franchising, Before, the, DNS:, how, yours, truly, upstaged, the, NIC's, official, HOSTS.TXT, (2004), Database, Lab, –, Full-size, staging, databases, as, a, service, A, New, Raspbian, Update, Code, Less,, Engineer, More, Show, HN:, My, Book,, Hands-On, Software, Engineering, with, Golang, A, Man, Who, Turned, Night, into, Day, (2016), Dawn,, a, WebGPU, Implementation, in, C++, Toy, commercials, are, being, replaced, by, product, placement, and, YouTube, influencers, George, Steiner, has, died, Show, HN:, SimpleSQL,, SQLite, Database, Reachable, over, HTTP, Combinatris:, Tetris, with, SKI, Combinators, The, Rapid, Growth, of, Io_uring, Video, game, development, in, Iran, Geometric, Algebra, –, Siggraph, 2019, LA’s, new, trains, have, not, lessened, the, time, spent, stuck, in, traffic, When, Dorothy, Parker, got, fired, from, Vanity, Fair, Ask, HN:, Math, subfields, important, to, become, a, distributed, systems, researcher?, Confessions, of, a, Failed, Academic, Dynamic, Route53, records, for, AWS, auto, scaling, groups, with, Terraform, Show, HN:, All-Purpose, Idea, Generator, Environmental, lawyer, who, won, a, judgment, against, Chevron, lost, everything]
-a--7
-The word occure maximum times is : a
-Most popular news is : TV Backlight Compensation
+134
+[Dolphin, Progress, Report:, December, 2019, and, January, 2020, No, engineer, has, ever, sued, because, of, constructive, post-interview, feedback, Sudo_pair:, A, tool, for, paired, use, of, elevated, privileges, Board, Games, of, the, Ancient, World, China, Is, Allowing, Taiwan, to, Attend, Coronavirus, WHO, Meetings, as, Taiwan, ThinkPad, T480, is, my, new, main, laptop, which, runs, FreeBSD, 95th, percentile, isn't, that, hard, to, reach, Webcam,, Lights,, and, Audio, for, Remote, Work,, Podcasting,, Videos,, and, Streaming, Ask, HN:, What, are, good, solo, developer, blogs, that, you, enjoy, reading?, Skepticism, after, Windows, 10, search, failure, Modern, workers, are, at, the, mercy, of, ratings, Windows, trust, in, abandoned, code, lets, ransomware, burrow, deep, in, targeted, machines, Manifold:, A, model-agnostic, visual, debugging, tool, for, machine, learning, (2019), Zero-days, in, Cisco, Discovery, Protocol, Swiss, journalist, re-implements, ClearViewAI, in, two, weeks, with, OS, software, Federal, agencies, use, cellphone, location, data, for, immigration, enforcement, TV, Backlight, Compensation, Google, Earth, Outage:, 17, hours, and, counting, Windows, 10, to, offer, Paint, and, WordPad, as, optional, features, Software-dependent, devices:, do, they, now, need, expiration, dates?, Wikimedia, Cookbook, HiPlot:, High-dimensional, interactive, plots, made, easy, Before, the, DNS:, how, yours, truly, upstaged, the, NIC's, official, HOSTS.TXT, (2004), The, Sensitive, Plant, Over, 36,000, Flash, Games, have, been, preserved, before, Flash, dies, Trying, to, be, too, (io)nice, created, a, “killer”, directory, Albert, Michelson's, Harmonic, Analyzer, (2014), [video], Request:, Buttons, for, logging, life, events, for, a, quantified, self, The, United, States, of, Franchising, Database, Lab, –, Full-size, staging, databases, as, a, service]
+for--6
+The word occure maximum times is : for
+Most popular news is : Webcam, Lights, and Audio for Remote Work, Podcasting, Videos, and Streaming
 ]]></system-out>
-  <system-err><![CDATA[Starting ChromeDriver 80.0.3987.16 (320f6526c1632ad4f205ebce69b99a062ed78647-refs/branch-heads/3987@{#185}) on port 29084
+  <system-err><![CDATA[Starting ChromeDriver 80.0.3987.16 (320f6526c1632ad4f205ebce69b99a062ed78647-refs/branch-heads/3987@{#185}) on port 24571
 Only local connections are allowed.
 Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
-Feb 09, 2020 2:40:13 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+Feb 09, 2020 7:51:36 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
-[1581239415.007][SEVERE]: Timed out receiving message from renderer: 0.100
-[1581239415.108][SEVERE]: Timed out receiving message from renderer: 0.100
-[1581239415.211][SEVERE]: Timed out receiving message from renderer: 0.100
-[1581239415.357][SEVERE]: Timed out receiving message from renderer: 0.100
-[1581239415.462][SEVERE]: Timed out receiving message from renderer: 0.100
-[1581239415.585][SEVERE]: Timed out receiving message from renderer: 0.100
-[1581239415.687][SEVERE]: Timed out receiving message from renderer: 0.100
+[1581258098.392][SEVERE]: Timed out receiving message from renderer: 0.100
+[1581258098.495][SEVERE]: Timed out receiving message from renderer: 0.100
+[1581258098.599][SEVERE]: Timed out receiving message from renderer: 0.100
+[1581258098.760][SEVERE]: Timed out receiving message from renderer: 0.100
+[1581258098.863][SEVERE]: Timed out receiving message from renderer: 0.100
+[1581258098.994][SEVERE]: Timed out receiving message from renderer: 0.100
+[1581258099.096][SEVERE]: Timed out receiving message from renderer: 0.100
+[1581258099.198][SEVERE]: Timed out receiving message from renderer: 0.100
 ]]></system-err>
 </testsuite>
